@@ -1,0 +1,1 @@
+{"name":"Local: string_building","url":"c:\\sanchita\\CODEFORCES\\string_building.cpp","tests":[{"id":1651311432558,"input":"6\naaabbb\nabab\na\nb\naab\nabb","output":"YES\nNO\nNO\nNO\nNO\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\sanchita\\CODEFORCES\\string_building.cpp","group":"local","local":true}
